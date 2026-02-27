@@ -38,12 +38,12 @@
 
         click1 {
             bindings = <&mkp LCLK>;
-            key-positions = <18 19>;
+            key-positions = <17 18>;
         };
 
         click2 {
             bindings = <&mkp RCLK>;
-            key-positions = <19 20>;
+            key-positions = <18 19>;
         };
 
         terminal {
